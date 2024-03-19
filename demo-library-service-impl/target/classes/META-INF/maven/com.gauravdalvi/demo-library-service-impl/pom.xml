@@ -1,0 +1,47 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.gauravdalvi</groupId>
+	<artifactId>demo-library-service-impl</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+	<parent>
+		<groupId>org.appops</groupId>
+		<artifactId>appops-br-reactor</artifactId>
+		<version>java-17-deba-1.0-RC-3</version>
+	</parent>
+
+	<dependencies>
+		<!--Slim Dependency-->
+		<dependency>
+			<groupId>com.gauravdalvi</groupId>
+			<artifactId>demo-library-service-slim</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.appops</groupId>
+			<artifactId>appops-br-service-base</artifactId>
+			<version>java-17-deba-1.0-RC-3</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.appops</groupId>
+			<artifactId>appops-br-entity-store</artifactId>
+			<version>java-17-deba-1.0-RC-3</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.appops</groupId>
+			<artifactId>appops-br-cache-service-slim</artifactId>
+			<version>java-17-deba-1.0-RC-3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.reflections</groupId>
+			<artifactId>reflections</artifactId>
+			<version>java-17-deba-1.0-RC-3</version>
+		</dependency>
+
+	</dependencies>
+</project>

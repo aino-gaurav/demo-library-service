@@ -1,0 +1,12 @@
+serviceName: "LibraryService"
+webappDirectory: "src/main/webapp/"
+gatewayUrl: "http://localhost:8080"
+annotationClass: "com.gauravdalvi.library.service.core.LibraryService"
+executionMode: "SERVICE"
+packageToScan: "com.gauravdalvi"
+webConfig:
+  ip: "http://localhost"
+  port: "9000"
+  contextPath: "/LibraryService"
+containerConfig:
+   dockerFileOrBaseDirectory: "Dockerfile"

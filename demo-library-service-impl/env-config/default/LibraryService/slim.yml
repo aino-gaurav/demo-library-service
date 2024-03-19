@@ -1,0 +1,3 @@
+annotationClass: com.gauravdalvi.library.service.core.LibraryService
+modules:
+- com.gauravdalvi.library.service.module.LibraryServiceSlimModule
