@@ -1,3 +1,3 @@
-annotationClass: com.gauravdalvi.library.service.core.LibraryService
+annotationClass: com.ainosoft.library.service.core.LibraryService
 modules:
-- com.gauravdalvi.library.service.module.LibraryServiceSlimModule
+- com.ainosoft.library.service.module.LibraryServiceSlimModule
