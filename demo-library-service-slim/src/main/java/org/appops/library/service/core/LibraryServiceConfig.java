@@ -1,4 +1,4 @@
-package com.ainosoft.library.service.core;
+package org.appops.library.service.core;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

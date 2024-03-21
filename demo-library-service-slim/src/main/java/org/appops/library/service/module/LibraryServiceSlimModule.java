@@ -1,10 +1,9 @@
-package com.ainosoft.library.service.module;
+package org.appops.library.service.module;
 
 import org.appops.core.annotation.SlimModule;
+import org.appops.library.service.LibraryApi;
+import org.appops.library.service.core.LibraryService;
 import org.appops.slim.base.injection.ServiceSlimModule;
-
-import com.ainosoft.library.service.LibraryApi;
-import com.ainosoft.library.service.core.LibraryService;
 
 @SlimModule(serviceName = LibraryService.class)
 public class LibraryServiceSlimModule extends ServiceSlimModule {

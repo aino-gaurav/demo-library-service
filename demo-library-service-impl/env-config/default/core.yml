@@ -1,9 +1,9 @@
 serviceName: "LibraryService"
 webappDirectory: "src/main/webapp/"
 gatewayUrl: "http://localhost:8080"
-annotationClass: "com.ainosoft.library.service.core.LibraryService"
+annotationClass: "org.appops.library.service.core.LibraryService"
 executionMode: "SERVICE"
-packageToScan: "com.ainosoft"
+packageToScan: "org.appops"
 webConfig:
   ip: "http://localhost"
   port: "9000"

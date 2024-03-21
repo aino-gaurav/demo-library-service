@@ -1,18 +1,22 @@
-package com.ainosoft.library.service.slim;
-
-import java.io.Serializable;
+package org.appops.library.service.slim;
 
 import org.appops.core.annotation.Slim;
 
 @Slim
-public class Book implements Serializable {
-	private static final long serialVersionUID = -612296800346536751L;
+public class Book  {
+	
 	private String bookName;
 	private String authorName;
 	private Integer pages;
 	
 	public Book() {
 		
+	}
+	
+	public Book(String bookName, String authorName, Integer pages) {
+		setBookName(bookName);
+		setAuthorName(authorName);
+		setPages(pages);
 	}
 	
 	public String getBookName() {

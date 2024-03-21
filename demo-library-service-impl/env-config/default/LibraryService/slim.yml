@@ -1,3 +1,3 @@
-annotationClass: com.ainosoft.library.service.core.LibraryService
+annotationClass: org.appops.library.service.core.LibraryService
 modules:
-- com.ainosoft.library.service.module.LibraryServiceSlimModule
+- org.appops.library.service.module.LibraryServiceSlimModule

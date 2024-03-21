@@ -1,5 +1,5 @@
-annotationClass: com.ainosoft.library.service.core.LibraryService
+annotationClass: org.appops.library.service.core.LibraryService
 modules:
-  - com.ainosoft.library.service.injection.LibraryServiceModule
+  - org.appops.library.service.injection.LibraryServiceModule
   - org.appops.logging.guice.DefaultLoggerModule
   - org.appops.entitystore.injection.EntityStoreModule

@@ -1,6 +1,5 @@
-/home/gaurav/git/br-public-release-deba/demo-library-service/demo-library-service-slim/src/main/java/com/ainosoft/library/service/util/BookList.java
-/home/gaurav/git/br-public-release-deba/demo-library-service/demo-library-service-slim/src/main/java/com/ainosoft/library/service/module/LibraryServiceSlimModule.java
-/home/gaurav/git/br-public-release-deba/demo-library-service/demo-library-service-slim/src/main/java/com/ainosoft/library/service/core/LibraryServiceConfig.java
-/home/gaurav/git/br-public-release-deba/demo-library-service/demo-library-service-slim/src/main/java/com/ainosoft/library/service/core/LibraryService.java
-/home/gaurav/git/br-public-release-deba/demo-library-service/demo-library-service-slim/src/main/java/com/ainosoft/library/service/slim/Book.java
-/home/gaurav/git/br-public-release-deba/demo-library-service/demo-library-service-slim/src/main/java/com/ainosoft/library/service/LibraryApi.java
+/home/gaurav/git/br-public-release-deba/demo-library-service/demo-library-service-slim/src/main/java/org/appops/library/service/module/LibraryServiceSlimModule.java
+/home/gaurav/git/br-public-release-deba/demo-library-service/demo-library-service-slim/src/main/java/org/appops/library/service/core/LibraryServiceConfig.java
+/home/gaurav/git/br-public-release-deba/demo-library-service/demo-library-service-slim/src/main/java/org/appops/library/service/slim/Book.java
+/home/gaurav/git/br-public-release-deba/demo-library-service/demo-library-service-slim/src/main/java/org/appops/library/service/LibraryApi.java
+/home/gaurav/git/br-public-release-deba/demo-library-service/demo-library-service-slim/src/main/java/org/appops/library/service/core/LibraryService.java
