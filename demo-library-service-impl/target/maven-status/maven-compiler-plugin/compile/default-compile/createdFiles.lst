@@ -1,0 +1,4 @@
+org/appops/library/service/impl/LibraryApiImpl.class
+org/appops/library/service/app/LibraryServiceEntryPoint.class
+org/appops/library/service/injection/LibraryServiceModule.class
+org/appops/library/service/app/LibraryServiceInitializer.class

@@ -1,0 +1,7 @@
+services:
+  library-service:
+    image: library-service-image
+    build:
+      dockerfile: Dockerfile
+    ports:
+      - "9010:9010"

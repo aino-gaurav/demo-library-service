@@ -1,4 +1,4 @@
-/home/gaurav/git/br-public-release-deba/demo-library-service/demo-library-service-impl/src/main/java/org/appops/library/service/app/LibraryServiceEntryPoint.java
-/home/gaurav/git/br-public-release-deba/demo-library-service/demo-library-service-impl/src/main/java/org/appops/library/service/injection/LibraryServiceModule.java
-/home/gaurav/git/br-public-release-deba/demo-library-service/demo-library-service-impl/src/main/java/org/appops/library/service/impl/LibraryApiImpl.java
-/home/gaurav/git/br-public-release-deba/demo-library-service/demo-library-service-impl/src/main/java/org/appops/library/service/app/LibraryServiceInitializer.java
+/home/gaurav/git/demo-services/demo-library-service/demo-library-service-impl/src/main/java/org/appops/library/service/app/LibraryServiceInitializer.java
+/home/gaurav/git/demo-services/demo-library-service/demo-library-service-impl/src/main/java/org/appops/library/service/app/LibraryServiceEntryPoint.java
+/home/gaurav/git/demo-services/demo-library-service/demo-library-service-impl/src/main/java/org/appops/library/service/impl/LibraryApiImpl.java
+/home/gaurav/git/demo-services/demo-library-service/demo-library-service-impl/src/main/java/org/appops/library/service/injection/LibraryServiceModule.java

@@ -6,7 +6,7 @@ executionMode: "SERVICE"
 packageToScan: "org.appops"
 webConfig:
   ip: "http://localhost"
-  port: "9000"
+  port: "9010"
   contextPath: "/LibraryService"
 containerConfig:
    dockerFileOrBaseDirectory: "Dockerfile"

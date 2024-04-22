@@ -8,11 +8,6 @@ import org.appops.library.service.slim.Book;
 public class LibraryApiImpl implements LibraryApi {
 
 	@Override
-	public String getLibraryName() throws Exception {
-		return "Some Library Name";
-	}
-
-	@Override
 	public ArrayList<Book> getBookList() throws Exception {
 		ArrayList<Book> bookList = new ArrayList<Book>();
 		
@@ -24,23 +19,11 @@ public class LibraryApiImpl implements LibraryApi {
 		Book book2 = new Book();
 		book2.setBookName("Book2");
 		book2.setAuthorName("Author2");
-		book2.setPages(100);
+		book2.setPages(200);
 
 		bookList.add(book1);
 		bookList.add(book2);
 		
  		return bookList;
 	}
-
-	@Override
-	public Book getBestSeller() throws Exception {
-		Book book = new Book();
-		book.setAuthorName("BestsellerAuthor");
-		book.setBookName("BestsellerBook");
-		book.setPages(250);
-		
-		return book;
-	}
-	
-
 }

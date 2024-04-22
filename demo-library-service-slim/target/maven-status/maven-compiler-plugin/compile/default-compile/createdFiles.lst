@@ -1,0 +1,5 @@
+org/appops/library/service/LibraryApi.class
+org/appops/library/service/module/LibraryServiceSlimModule.class
+org/appops/library/service/core/LibraryService.class
+org/appops/library/service/core/LibraryServiceConfig.class
+org/appops/library/service/slim/Book.class
